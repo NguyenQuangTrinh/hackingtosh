@@ -1,0 +1,3 @@
+# hackingtosh
+
+## Cấu hình máy
