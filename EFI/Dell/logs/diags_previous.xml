@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>156</LogNumber>
+    <LogTimeStamp>07/08/2022 19:51:20</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Abort</Result>
+      <ReturnCode>BOOT_F2</ReturnCode>
+      <DevicesTested>Memory, Hard Drive</DevicesTested>
+      <ePSAFullVersion>4304.09</ePSAFullVersion>
+      <ePSAInvocationCount>41</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>NO_BOOT</ErrorCategory>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
